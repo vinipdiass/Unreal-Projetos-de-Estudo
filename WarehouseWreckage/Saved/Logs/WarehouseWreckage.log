@@ -2061,3 +2061,1330 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.05-19.56.04:616][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 2.00 sec)
 [2024.04.05-19.56.04:619][779]AssetCheck: New page: Asset Save: Main
 [2024.04.05-19.56.04:619][779]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2024.04.05-19.59.31:268][469]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-20.07.04:731][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.05-20.07.04:734][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.05-20.07.04:773][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto4
+[2024.04.05-20.07.04:773][487]LogSavePackage: Moving '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Main_Auto44C4CE86F49D8199EE0A1FE8772ECB282.tmp' to '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto4.umap'
+[2024.04.05-20.07.04:773][487]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.05-20.07.04:773][487]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Main_Auto4 is in the /Temp path, will not scan.
+[2024.04.05-20.07.04:773][487]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_Auto4 is in the /Temp path, will not scan.
+[2024.04.05-20.07.04:773][487]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.065
+[2024.04.05-20.07.04:773][487]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2024.04.05-20.11.39:848][966]LogSlate: Took 0.006138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.05-20.11.53:332][461]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.11.53:332][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.11.53:438][461]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Projétil.BP_Projétil
+[2024.04.05-20.11.53:439][461]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.11.53:439][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.13.24:522][737]LogViewport: Scene viewport resized to 1525x867, mode Windowed.
+[2024.04.05-20.13.39:316][425]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::GetActorForwardVector' [Elemento não encontrado.]
+[2024.04.05-20.16.11:787][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.05-20.16.12:467][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.16.12:518][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projétil" FILE="../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Content/BP_Projétil.uasset" SILENT=true
+[2024.04.05-20.16.12:567][220]LogSavePackage: Moving output files for package: /Game/BP_Projétil
+[2024.04.05-20.16.12:567][220]LogSavePackage: Moving '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/BP_Projétil860D21FA475B64569175B18BB5754155.tmp' to '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Content/BP_Projétil.uasset'
+[2024.04.05-20.16.12:575][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 787 ms (total: 2.78 sec)
+[2024.04.05-20.16.12:581][220]AssetCheck: New page: Asset Save: BP_Projétil
+[2024.04.05-20.16.12:581][220]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projétil.BP_Projétil
+[2024.04.05-20.16.18:729][402]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-20.16.19:694][431]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.16.19:701][431]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-20.16.19:731][431]LogPlayLevel: [PlayLevel] Compiling BP_Projétil before play...
+[2024.04.05-20.16.19:816][431]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2024.04.05-20.16.19:862][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.04.05-20.16.19:864][431]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (2 blueprints)
+[2024.04.05-20.16.19:864][431]PIE: New page: PIE session: Main (5 de abr de 2024 14:16:19)
+[2024.04.05-20.16.19:864][431]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2024.04.05-20.16.19:867][431]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.04.05-20.16.19:929][432]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.16.19:942][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012636s)
+[2024.04.05-20.16.19:942][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.012858s)
+[2024.04.05-20.16.19:966][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.05-20.16.19:968][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.16.19:968][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.16.19:969][432]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.16.19:970][432]LogPlayLevel: PIE: World Init took: (0.002477s)
+[2024.04.05-20.16.19:970][432]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.05-20.16.19:970][432]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-20.16.19:970][432]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-20.16.19:970][432]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-20.16.19:970][432]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-20.16.19:970][432]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.05-20.16.19:970][432]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.05-20.16.19:970][432]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.05-20.16.19:970][432]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-20.16.19:972][432]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-20.16.19:972][432]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-20.16.19:972][432]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-20.16.19:975][432]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-20.16.20:045][432]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2024.04.05-20.16.20:046][432]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-20.16.20:046][432]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-20.16.20:046][432]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-20.16.20:056][432]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.05-20.16.20:056][432]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.04.05-20.16.20:056][432]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.05-20.16.20:056][432]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.05-20.16.20:056][432]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.05-20.16.20:056][432]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main'.
+[2024.04.05-20.16.20:056][432]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.05-20.16.20:114][432]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.16.20:118][432]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.16.20
+[2024.04.05-20.16.20:118][432]LogWorld: Bringing up level for play took: 0.004080
+[2024.04.05-20.16.20:120][432]LogBlueprintUserMessages: [Main_C_8] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.16.20:120][432]LogBlueprintUserMessages: [Main_C_8] 20
+[2024.04.05-20.16.20:120][432]PIE: Server logged in
+[2024.04.05-20.16.20:121][432]PIE: Play in editor total start time 0,421 seconds.
+[2024.04.05-20.16.24:790][493]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil0
+[2024.04.05-20.16.24:790][493]LogBlueprintUserMessages: [Main_C_8] 19
+[2024.04.05-20.16.25:836][524]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil1
+[2024.04.05-20.16.25:837][524]LogBlueprintUserMessages: [Main_C_8] 18
+[2024.04.05-20.16.26:778][552]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil2
+[2024.04.05-20.16.26:782][552]LogBlueprintUserMessages: [Main_C_8] 17
+[2024.04.05-20.16.27:677][579]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil3
+[2024.04.05-20.16.27:677][579]LogBlueprintUserMessages: [Main_C_8] 16
+[2024.04.05-20.16.28:605][606]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil4
+[2024.04.05-20.16.28:605][606]LogBlueprintUserMessages: [Main_C_8] 15
+[2024.04.05-20.16.29:446][631]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil5
+[2024.04.05-20.16.29:446][631]LogBlueprintUserMessages: [Main_C_8] 14
+[2024.04.05-20.16.30:386][659]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil6
+[2024.04.05-20.16.30:387][659]LogBlueprintUserMessages: [Main_C_8] 13
+[2024.04.05-20.16.32:327][717]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil7
+[2024.04.05-20.16.32:327][717]LogBlueprintUserMessages: [Main_C_8] 12
+[2024.04.05-20.16.33:034][738]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil8
+[2024.04.05-20.16.33:034][738]LogBlueprintUserMessages: [Main_C_8] 11
+[2024.04.05-20.16.33:674][757]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil9
+[2024.04.05-20.16.33:674][757]LogBlueprintUserMessages: [Main_C_8] 10
+[2024.04.05-20.16.34:180][772]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil10
+[2024.04.05-20.16.34:180][772]LogBlueprintUserMessages: [Main_C_8] 9
+[2024.04.05-20.16.34:686][787]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil11
+[2024.04.05-20.16.34:686][787]LogBlueprintUserMessages: [Main_C_8] 8
+[2024.04.05-20.16.35:204][802]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil12
+[2024.04.05-20.16.35:204][802]LogBlueprintUserMessages: [Main_C_8] 7
+[2024.04.05-20.16.35:779][819]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil13
+[2024.04.05-20.16.35:779][819]LogBlueprintUserMessages: [Main_C_8] 6
+[2024.04.05-20.16.36:508][840]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil14
+[2024.04.05-20.16.36:508][840]LogBlueprintUserMessages: [Main_C_8] 5
+[2024.04.05-20.16.37:562][871]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil15
+[2024.04.05-20.16.37:562][871]LogBlueprintUserMessages: [Main_C_8] 4
+[2024.04.05-20.16.38:277][892]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil16
+[2024.04.05-20.16.38:277][892]LogBlueprintUserMessages: [Main_C_8] 3
+[2024.04.05-20.16.39:053][915]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil17
+[2024.04.05-20.16.39:054][915]LogBlueprintUserMessages: [Main_C_8] 2
+[2024.04.05-20.16.39:767][936]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil18
+[2024.04.05-20.16.39:767][936]LogBlueprintUserMessages: [Main_C_8] 1
+[2024.04.05-20.16.40:551][959]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil19
+[2024.04.05-20.16.40:551][959]LogBlueprintUserMessages: [Main_C_8] 0
+[2024.04.05-20.16.41:273][980]LogBlueprintUserMessages: [Main_C_8] Não há mais munição disponível.
+[2024.04.05-20.16.41:924][999]LogBlueprintUserMessages: [Main_C_8] Não há mais munição disponível.
+[2024.04.05-20.16.42:431][ 14]LogBlueprintUserMessages: [Main_C_8] Não há mais munição disponível.
+[2024.04.05-20.16.42:836][ 26]LogBlueprintUserMessages: [Main_C_8] Não há mais munição disponível.
+[2024.04.05-20.16.43:791][ 54]LogBlueprintUserMessages: [Main_C_8] 20
+[2024.04.05-20.16.44:366][ 71]LogBlueprintUserMessages: [BP_Projétil_C_20] BP_Projétil20
+[2024.04.05-20.16.44:366][ 71]LogBlueprintUserMessages: [Main_C_8] 19
+[2024.04.05-20.16.45:249][ 97]LogBlueprintUserMessages: [BP_Projétil_C_21] BP_Projétil21
+[2024.04.05-20.16.45:249][ 97]LogBlueprintUserMessages: [Main_C_8] 18
+[2024.04.05-20.16.45:965][118]LogBlueprintUserMessages: [BP_Projétil_C_22] BP_Projétil22
+[2024.04.05-20.16.45:966][118]LogBlueprintUserMessages: [Main_C_8] 17
+[2024.04.05-20.16.46:677][139]LogBlueprintUserMessages: [BP_Projétil_C_23] BP_Projétil23
+[2024.04.05-20.16.46:678][139]LogBlueprintUserMessages: [Main_C_8] 16
+[2024.04.05-20.16.47:504][163]LogBlueprintUserMessages: [BP_Projétil_C_24] BP_Projétil24
+[2024.04.05-20.16.47:504][163]LogBlueprintUserMessages: [Main_C_8] 15
+[2024.04.05-20.16.48:293][186]LogBlueprintUserMessages: [BP_Projétil_C_25] BP_Projétil25
+[2024.04.05-20.16.48:295][186]LogBlueprintUserMessages: [Main_C_8] 14
+[2024.04.05-20.16.49:181][212]LogBlueprintUserMessages: [BP_Projétil_C_26] BP_Projétil26
+[2024.04.05-20.16.49:181][212]LogBlueprintUserMessages: [Main_C_8] 13
+[2024.04.05-20.16.50:194][242]LogBlueprintUserMessages: [BP_Projétil_C_27] BP_Projétil27
+[2024.04.05-20.16.50:194][242]LogBlueprintUserMessages: [Main_C_8] 12
+[2024.04.05-20.16.50:395][248]LogBlueprintUserMessages: [BP_Projétil_C_28] BP_Projétil28
+[2024.04.05-20.16.50:395][248]LogBlueprintUserMessages: [Main_C_8] 11
+[2024.04.05-20.16.50:562][253]LogBlueprintUserMessages: [BP_Projétil_C_29] BP_Projétil29
+[2024.04.05-20.16.50:562][253]LogBlueprintUserMessages: [Main_C_8] 10
+[2024.04.05-20.16.50:730][258]LogBlueprintUserMessages: [BP_Projétil_C_30] BP_Projétil30
+[2024.04.05-20.16.50:730][258]LogBlueprintUserMessages: [Main_C_8] 9
+[2024.04.05-20.16.50:941][264]LogBlueprintUserMessages: [BP_Projétil_C_31] BP_Projétil31
+[2024.04.05-20.16.50:941][264]LogBlueprintUserMessages: [Main_C_8] 8
+[2024.04.05-20.16.51:180][271]LogBlueprintUserMessages: [BP_Projétil_C_32] BP_Projétil32
+[2024.04.05-20.16.51:180][271]LogBlueprintUserMessages: [Main_C_8] 7
+[2024.04.05-20.16.51:387][277]LogBlueprintUserMessages: [BP_Projétil_C_33] BP_Projétil33
+[2024.04.05-20.16.51:388][277]LogBlueprintUserMessages: [Main_C_8] 6
+[2024.04.05-20.16.51:623][284]LogBlueprintUserMessages: [BP_Projétil_C_34] BP_Projétil34
+[2024.04.05-20.16.51:623][284]LogBlueprintUserMessages: [Main_C_8] 5
+[2024.04.05-20.16.51:828][290]LogBlueprintUserMessages: [BP_Projétil_C_35] BP_Projétil35
+[2024.04.05-20.16.51:828][290]LogBlueprintUserMessages: [Main_C_8] 4
+[2024.04.05-20.16.52:093][298]LogBlueprintUserMessages: [BP_Projétil_C_36] BP_Projétil36
+[2024.04.05-20.16.52:094][298]LogBlueprintUserMessages: [Main_C_8] 3
+[2024.04.05-20.16.53:889][351]LogBlueprintUserMessages: [BP_Projétil_C_37] BP_Projétil37
+[2024.04.05-20.16.53:889][351]LogBlueprintUserMessages: [Main_C_8] 2
+[2024.04.05-20.16.54:200][360]LogBlueprintUserMessages: [BP_Projétil_C_38] BP_Projétil38
+[2024.04.05-20.16.54:200][360]LogBlueprintUserMessages: [Main_C_8] 1
+[2024.04.05-20.16.54:435][367]LogBlueprintUserMessages: [BP_Projétil_C_39] BP_Projétil39
+[2024.04.05-20.16.54:435][367]LogBlueprintUserMessages: [Main_C_8] 0
+[2024.04.05-20.16.54:675][374]LogBlueprintUserMessages: [Main_C_8] Não há mais munição disponível.
+[2024.04.05-20.16.54:910][381]LogBlueprintUserMessages: [Main_C_8] Não há mais munição disponível.
+[2024.04.05-20.16.55:153][388]LogBlueprintUserMessages: [Main_C_8] Não há mais munição disponível.
+[2024.04.05-20.16.56:475][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.16.56:475][425]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.16.56:475][425]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.16.56:476][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.16.56:514][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-20.16.56:519][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.16.56:539][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.16.56:539][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.05-20.16.56:539][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.05-20.16.56:541][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.05-20.16.56:551][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.05-20.16.56:935][426]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.04.05-20.17.46:815][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.05-20.17.46:818][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.05-20.17.46:854][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto5
+[2024.04.05-20.17.46:854][328]LogSavePackage: Moving '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Main_Auto51CC647084CD4C4455A223081B0F586F5.tmp' to '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto5.umap'
+[2024.04.05-20.17.46:855][328]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto5.umap is in the /Temp path, will not scan.
+[2024.04.05-20.17.46:855][328]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Main_Auto5 is in the /Temp path, will not scan.
+[2024.04.05-20.17.46:855][328]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_Auto5 is in the /Temp path, will not scan.
+[2024.04.05-20.17.46:855][328]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.065
+[2024.04.05-20.17.46:855][328]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2024.04.05-20.18.37:893][339]LogEditorTransaction: Undo Delete current selection
+[2024.04.05-20.19.03:357][236]LogDerivedDataCache: C:/Users/quaac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.117 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1463 files in 2326 folders with total size 125 MiB.
+[2024.04.05-20.20.35:373][994]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.20.35:380][994]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-20.20.35:381][994]LogPlayLevel: [PlayLevel] Compiling BP_Projétil before play...
+[2024.04.05-20.20.35:430][994]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2024.04.05-20.20.35:468][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.05-20.20.35:470][994]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (2 blueprints)
+[2024.04.05-20.20.35:470][994]PIE: New page: PIE session: Main (5 de abr de 2024 14:20:35)
+[2024.04.05-20.20.35:470][994]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2024.04.05-20.20.35:472][994]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.04.05-20.20.35:494][995]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.20.35:504][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010175s)
+[2024.04.05-20.20.35:504][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.010233s)
+[2024.04.05-20.20.35:522][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.05-20.20.35:524][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.20.35:524][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.20.35:525][995]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.20.35:525][995]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2024.04.05-20.20.35:525][995]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.04.05-20.20.35:525][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-20.20.35:525][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-20.20.35:525][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-20.20.35:525][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-20.20.35:525][995]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.05-20.20.35:525][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.05-20.20.35:525][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.05-20.20.35:525][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-20.20.35:526][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-20.20.35:526][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-20.20.35:526][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-20.20.35:528][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-20.20.35:575][995]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2024.04.05-20.20.35:575][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-20.20.35:575][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-20.20.35:575][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-20.20.35:576][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.04.05-20.20.35:576][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.04.05-20.20.35:579][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.04.05-20.20.35:579][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.04.05-20.20.35:579][995]LogInit: FAudioDevice initialized with ID 12.
+[2024.04.05-20.20.35:579][995]LogAudio: Display: Audio Device (ID: 12) registered with world 'Main'.
+[2024.04.05-20.20.35:579][995]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.05-20.20.35:641][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.20.35:641][995]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.20.35:645][995]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.20.35
+[2024.04.05-20.20.35:646][995]LogWorld: Bringing up level for play took: 0.004933
+[2024.04.05-20.20.35:647][995]LogBlueprintUserMessages: [Main_C_9] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.20.35:647][995]LogBlueprintUserMessages: [Main_C_9] 20
+[2024.04.05-20.20.35:649][995]PIE: Server logged in
+[2024.04.05-20.20.35:650][995]PIE: Play in editor total start time 0,27 seconds.
+[2024.04.05-20.20.35:661][995]LogViewport: Scene viewport resized to 1280x680, mode Windowed.
+[2024.04.05-20.20.38:597][ 64]LogBlueprintUserMessages: [Main_C_9] 19
+[2024.04.05-20.20.39:096][ 83]LogBlueprintUserMessages: [Main_C_9] 18
+[2024.04.05-20.20.39:514][ 99]LogBlueprintUserMessages: [Main_C_9] 17
+[2024.04.05-20.20.39:995][117]LogBlueprintUserMessages: [Main_C_9] 16
+[2024.04.05-20.20.40:366][131]LogBlueprintUserMessages: [Main_C_9] 15
+[2024.04.05-20.20.40:736][145]LogBlueprintUserMessages: [Main_C_9] 14
+[2024.04.05-20.20.41:183][162]LogBlueprintUserMessages: [Main_C_9] 13
+[2024.04.05-20.20.41:725][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.20.41:725][181]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.20.41:727][181]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.05-20.20.41:731][181]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.20.41:732][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.20.41:738][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-20.20.41:745][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.20.41:767][181]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.05-20.20.41:767][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.05-20.20.41:768][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.05-20.20.41:780][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.05-20.20.41:857][182]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.04.05-20.20.50:619][226]BlueprintLog: New page: Compile Main
+[2024.04.05-20.20.50:659][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.05-20.25.09:004][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.25.09:009][289]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-20.25.09:022][289]LogPlayLevel: [PlayLevel] Compiling BP_Projétil before play...
+[2024.04.05-20.25.09:542][289]LogBlueprint: Error: [AssetLog] D:\Unreal Projetos\Unreal-Projetos-de-Estudo\WarehouseWreckage\Content\BP_Projétil.uasset: [Compiler] Variable node  Get StaticMeshComponent  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.04.05-20.25.09:707][289]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2024.04.05-20.25.09:751][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.05-20.25.09:754][289]LogPlayLevel: PlayLevel: Blueprint regeneration took 744 ms (2 blueprints)
+[2024.04.05-20.25.09:755][289]BlueprintLog: Warning: Blueprint failed to compile:  BP_Projétil
+[2024.04.05-20.25.12:919][289]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.04.05-20.25.14:571][458]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-20.25.14:578][458]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-20.25.16:817][725]BlueprintLog: New page: Compile Main
+[2024.04.05-20.25.16:852][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.05-20.25.19:224][  4]BlueprintLog: New page: Compile Main
+[2024.04.05-20.25.19:259][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.05-20.25.20:262][120]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.25.20:269][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.05-20.25.20:269][120]BlueprintLog: Warning: Blueprint failed to compile:  BP_Projétil
+[2024.04.05-20.25.21:711][120]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.04.05-20.25.26:561][599]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-20.25.26:566][599]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-20.26.20:632][966]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.26.21:318][986]LogEditorTransaction: Undo Delete current selection
+[2024.04.05-20.26.27:265][643]BlueprintLog: New page: Compile BP_Projétil
+[2024.04.05-20.26.27:312][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.05-20.26.28:905][816]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.26.28:910][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.05-20.26.28:910][816]PIE: New page: PIE session: Main (5 de abr de 2024 14:26:28)
+[2024.04.05-20.26.28:911][816]LogPlayLevel: Display: Creating online subsystem for client :Context_22
+[2024.04.05-20.26.28:915][816]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.04.05-20.26.28:922][817]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.26.28:932][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009999s)
+[2024.04.05-20.26.28:932][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.010046s)
+[2024.04.05-20.26.28:949][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.05-20.26.28:951][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.26.28:951][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.26.28:952][817]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.26.28:952][817]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2024.04.05-20.26.28:952][817]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.05-20.26.28:952][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-20.26.28:952][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-20.26.28:952][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-20.26.28:952][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-20.26.28:952][817]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.05-20.26.28:952][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.05-20.26.28:952][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.05-20.26.28:952][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-20.26.28:953][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-20.26.28:953][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-20.26.28:953][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-20.26.28:955][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-20.26.29:001][817]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2024.04.05-20.26.29:001][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-20.26.29:001][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-20.26.29:001][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-20.26.29:002][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.05-20.26.29:002][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.04.05-20.26.29:005][817]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.05-20.26.29:005][817]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main'.
+[2024.04.05-20.26.29:005][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.05-20.26.29:005][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.05-20.26.29:005][817]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.05-20.26.29:056][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.26.29:057][817]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.26.29:062][817]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.26.29
+[2024.04.05-20.26.29:062][817]LogWorld: Bringing up level for play took: 0.005466
+[2024.04.05-20.26.29:063][817]LogBlueprintUserMessages: [Main_C_13] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.26.29:063][817]LogBlueprintUserMessages: [Main_C_13] 20
+[2024.04.05-20.26.29:065][817]PIE: Server logged in
+[2024.04.05-20.26.29:067][817]PIE: Play in editor total start time 0,156 seconds.
+[2024.04.05-20.26.29:089][817]LogViewport: Scene viewport resized to 1280x680, mode Windowed.
+[2024.04.05-20.26.31:471][879]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil_C_0
+[2024.04.05-20.26.31:471][879]LogBlueprintUserMessages: [Main_C_13] 19
+[2024.04.05-20.26.32:512][916]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil_C_1
+[2024.04.05-20.26.32:512][916]LogBlueprintUserMessages: [Main_C_13] 18
+[2024.04.05-20.26.33:389][948]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil_C_2
+[2024.04.05-20.26.33:389][948]LogBlueprintUserMessages: [Main_C_13] 17
+[2024.04.05-20.26.34:315][982]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil_C_3
+[2024.04.05-20.26.34:315][982]LogBlueprintUserMessages: [Main_C_13] 16
+[2024.04.05-20.26.35:228][ 15]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil_C_4
+[2024.04.05-20.26.35:228][ 15]LogBlueprintUserMessages: [Main_C_13] 15
+[2024.04.05-20.26.36:065][ 45]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil_C_5
+[2024.04.05-20.26.36:065][ 45]LogBlueprintUserMessages: [Main_C_13] 14
+[2024.04.05-20.26.36:855][ 74]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil_C_6
+[2024.04.05-20.26.36:855][ 74]LogBlueprintUserMessages: [Main_C_13] 13
+[2024.04.05-20.26.37:154][ 85]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil_C_7
+[2024.04.05-20.26.37:154][ 85]LogBlueprintUserMessages: [Main_C_13] 12
+[2024.04.05-20.26.37:375][ 93]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil_C_8
+[2024.04.05-20.26.37:375][ 93]LogBlueprintUserMessages: [Main_C_13] 11
+[2024.04.05-20.26.37:597][101]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil_C_9
+[2024.04.05-20.26.37:598][101]LogBlueprintUserMessages: [Main_C_13] 10
+[2024.04.05-20.26.37:792][108]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil_C_10
+[2024.04.05-20.26.37:792][108]LogBlueprintUserMessages: [Main_C_13] 9
+[2024.04.05-20.26.38:022][116]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil_C_11
+[2024.04.05-20.26.38:022][116]LogBlueprintUserMessages: [Main_C_13] 8
+[2024.04.05-20.26.38:330][127]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil_C_12
+[2024.04.05-20.26.38:330][127]LogBlueprintUserMessages: [Main_C_13] 7
+[2024.04.05-20.26.38:580][136]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil_C_13
+[2024.04.05-20.26.38:580][136]LogBlueprintUserMessages: [Main_C_13] 6
+[2024.04.05-20.26.38:857][146]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil_C_14
+[2024.04.05-20.26.38:857][146]LogBlueprintUserMessages: [Main_C_13] 5
+[2024.04.05-20.26.39:109][155]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil_C_15
+[2024.04.05-20.26.39:109][155]LogBlueprintUserMessages: [Main_C_13] 4
+[2024.04.05-20.26.39:362][164]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil_C_16
+[2024.04.05-20.26.39:362][164]LogBlueprintUserMessages: [Main_C_13] 3
+[2024.04.05-20.26.39:587][172]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil_C_17
+[2024.04.05-20.26.39:587][172]LogBlueprintUserMessages: [Main_C_13] 2
+[2024.04.05-20.26.39:838][181]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil_C_18
+[2024.04.05-20.26.39:838][181]LogBlueprintUserMessages: [Main_C_13] 1
+[2024.04.05-20.26.40:067][189]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil_C_19
+[2024.04.05-20.26.40:067][189]LogBlueprintUserMessages: [Main_C_13] 0
+[2024.04.05-20.26.40:293][197]LogBlueprintUserMessages: [Main_C_13] Não há mais munição disponível.
+[2024.04.05-20.26.40:546][206]LogBlueprintUserMessages: [Main_C_13] Não há mais munição disponível.
+[2024.04.05-20.26.40:798][215]LogBlueprintUserMessages: [Main_C_13] Não há mais munição disponível.
+[2024.04.05-20.26.43:386][310]LogBlueprintUserMessages: [Main_C_13] 20
+[2024.04.05-20.26.44:359][346]LogBlueprintUserMessages: [BP_Projétil_C_20] BP_Projétil_C_20
+[2024.04.05-20.26.44:359][346]LogBlueprintUserMessages: [Main_C_13] 19
+[2024.04.05-20.26.44:602][355]LogBlueprintUserMessages: [BP_Projétil_C_21] BP_Projétil_C_21
+[2024.04.05-20.26.44:602][355]LogBlueprintUserMessages: [Main_C_13] 18
+[2024.04.05-20.26.44:819][363]LogBlueprintUserMessages: [BP_Projétil_C_22] BP_Projétil_C_22
+[2024.04.05-20.26.44:819][363]LogBlueprintUserMessages: [Main_C_13] 17
+[2024.04.05-20.26.45:038][371]LogBlueprintUserMessages: [BP_Projétil_C_23] BP_Projétil_C_23
+[2024.04.05-20.26.45:038][371]LogBlueprintUserMessages: [Main_C_13] 16
+[2024.04.05-20.26.45:230][378]LogBlueprintUserMessages: [BP_Projétil_C_24] BP_Projétil_C_24
+[2024.04.05-20.26.45:230][378]LogBlueprintUserMessages: [Main_C_13] 15
+[2024.04.05-20.26.45:421][385]LogBlueprintUserMessages: [BP_Projétil_C_25] BP_Projétil_C_25
+[2024.04.05-20.26.45:421][385]LogBlueprintUserMessages: [Main_C_13] 14
+[2024.04.05-20.26.45:644][393]LogBlueprintUserMessages: [BP_Projétil_C_26] BP_Projétil_C_26
+[2024.04.05-20.26.45:644][393]LogBlueprintUserMessages: [Main_C_13] 13
+[2024.04.05-20.26.45:839][400]LogBlueprintUserMessages: [BP_Projétil_C_27] BP_Projétil_C_27
+[2024.04.05-20.26.45:839][400]LogBlueprintUserMessages: [Main_C_13] 12
+[2024.04.05-20.26.46:028][407]LogBlueprintUserMessages: [BP_Projétil_C_28] BP_Projétil_C_28
+[2024.04.05-20.26.46:028][407]LogBlueprintUserMessages: [Main_C_13] 11
+[2024.04.05-20.26.46:219][414]LogBlueprintUserMessages: [BP_Projétil_C_29] BP_Projétil_C_29
+[2024.04.05-20.26.46:219][414]LogBlueprintUserMessages: [Main_C_13] 10
+[2024.04.05-20.26.46:556][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.26.46:556][425]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.26.46:559][425]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.05-20.26.46:566][425]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.26.46:567][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.26.46:574][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-20.26.46:580][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.26.46:601][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.05-20.26.46:601][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.05-20.26.46:604][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.05-20.26.46:613][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.04.05-20.26.46:686][426]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.04.05-20.28.22:242][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.04.05-20.28.22:245][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.05-20.28.22:279][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto6
+[2024.04.05-20.28.22:280][850]LogSavePackage: Moving '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Main_Auto602D57A8D41FE108247CE7CA1C1D181BA.tmp' to '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto6.umap'
+[2024.04.05-20.28.22:281][850]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto6.umap is in the /Temp path, will not scan.
+[2024.04.05-20.28.22:281][850]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Main_Auto6 is in the /Temp path, will not scan.
+[2024.04.05-20.28.22:281][850]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_Auto6 is in the /Temp path, will not scan.
+[2024.04.05-20.28.22:281][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.064
+[2024.04.05-20.28.22:281][850]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2024.04.05-20.28.22:281][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Projétil] ([2] browsable assets)...
+[2024.04.05-20.28.22:379][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Projétil.BP_Projétil]
+[2024.04.05-20.28.22:379][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projétil]
+[2024.04.05-20.28.22:379][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projétil" FILE="../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/BP_Projétil_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.04.05-20.28.22:398][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Projétil_Auto6
+[2024.04.05-20.28.22:399][850]LogSavePackage: Moving '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/BP_Projétil_Auto66F14F1454488920FFE225787056CB19A.tmp' to '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/Autosaves/Game/BP_Projétil_Auto6.uasset'
+[2024.04.05-20.28.22:399][850]LogFileHelpers: Auto-saving content packages took 0.118
+[2024.04.05-20.31.27:305][694]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.31.27:310][694]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-20.31.27:311][694]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2024.04.05-20.31.27:313][694]LogBlueprint: Error: [AssetLog] D:\Unreal Projetos\Unreal-Projetos-de-Estudo\WarehouseWreckage\Content\Main.umap: [Compiler] BaseAsyncTask: Internal connection error.  Task Wait Delay
+[2024.04.05-20.31.27:841][694]LogBlueprint: Error: [AssetLog] D:\Unreal Projetos\Unreal-Projetos-de-Estudo\WarehouseWreckage\Content\Main.umap: [Compiler] This blueprint (self) is not a GameplayTaskOwnerInterface, therefore ' Task Owner ' must have a connection.
+[2024.04.05-20.31.28:058][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.05-20.31.28:060][694]LogPlayLevel: PlayLevel: Blueprint regeneration took 749 ms (1 blueprints)
+[2024.04.05-20.31.28:060][694]BlueprintLog: Warning: Blueprint failed to compile:  Main
+[2024.04.05-20.31.31:156][694]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.04.05-20.31.33:488][954]LogBlueprint: Warning: Unknown type of hyperlinked object (Main), cannot focus it
+[2024.04.05-20.31.33:488][954]LogBlueprint: Warning: Unknown type of hyperlinked object (Main), cannot focus it
+[2024.04.05-20.31.39:029][598]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-20.31.39:035][598]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-20.32.23:768][877]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.32.23:773][877]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-20.32.23:774][877]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2024.04.05-20.32.23:775][877]LogBlueprint: Error: [AssetLog] D:\Unreal Projetos\Unreal-Projetos-de-Estudo\WarehouseWreckage\Content\Main.umap: [Compiler] BaseAsyncTask: Internal connection error.  Task Wait Delay
+[2024.04.05-20.32.23:778][877]LogBlueprint: Error: [AssetLog] D:\Unreal Projetos\Unreal-Projetos-de-Estudo\WarehouseWreckage\Content\Main.umap: [Compiler] This blueprint (self) is not a GameplayTaskOwnerInterface, therefore ' Task Owner ' must have a connection.
+[2024.04.05-20.32.24:457][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.05-20.32.24:459][877]LogPlayLevel: PlayLevel: Blueprint regeneration took 685 ms (1 blueprints)
+[2024.04.05-20.32.24:459][877]BlueprintLog: Warning: Blueprint failed to compile:  Main
+[2024.04.05-20.32.26:455][877]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.04.05-20.32.27:755][ 16]LogBlueprint: Warning: Unknown type of hyperlinked object (Main), cannot focus it
+[2024.04.05-20.32.27:755][ 16]LogBlueprint: Warning: Unknown type of hyperlinked object (Main), cannot focus it
+[2024.04.05-20.32.29:180][186]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-20.32.29:186][186]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-20.32.57:747][550]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.32.57:752][550]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-20.32.57:754][550]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2024.04.05-20.32.57:807][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.05-20.32.57:808][550]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2024.04.05-20.32.57:808][550]PIE: New page: PIE session: Main (5 de abr de 2024 14:32:57)
+[2024.04.05-20.32.57:808][550]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2024.04.05-20.32.57:810][550]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.04.05-20.32.57:852][551]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.32.57:862][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010162s)
+[2024.04.05-20.32.57:862][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.010289s)
+[2024.04.05-20.32.57:879][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.05-20.32.57:880][551]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.32.57:880][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.32.57:881][551]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.32.57:881][551]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2024.04.05-20.32.57:881][551]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.04.05-20.32.57:881][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-20.32.57:881][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-20.32.57:881][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-20.32.57:881][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-20.32.57:881][551]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.05-20.32.57:881][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.05-20.32.57:881][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.05-20.32.57:881][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-20.32.57:882][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-20.32.57:882][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-20.32.57:882][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-20.32.57:884][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-20.32.57:931][551]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2024.04.05-20.32.57:931][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-20.32.57:931][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-20.32.57:931][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-20.32.57:932][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.04.05-20.32.57:932][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.04.05-20.32.57:934][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.04.05-20.32.57:934][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.04.05-20.32.57:934][551]LogInit: FAudioDevice initialized with ID 14.
+[2024.04.05-20.32.57:934][551]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main'.
+[2024.04.05-20.32.57:934][551]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.05-20.32.58:001][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.32.58:001][551]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.32.58:006][551]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.32.58
+[2024.04.05-20.32.58:006][551]LogWorld: Bringing up level for play took: 0.005309
+[2024.04.05-20.32.58:008][551]LogBlueprintUserMessages: [Main_C_16] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.32.58:008][551]LogBlueprintUserMessages: [Main_C_16] 20
+[2024.04.05-20.32.58:010][551]PIE: Server logged in
+[2024.04.05-20.32.58:010][551]PIE: Play in editor total start time 0,258 seconds.
+[2024.04.05-20.32.58:031][551]LogViewport: Scene viewport resized to 1280x680, mode Windowed.
+[2024.04.05-20.33.00:375][606]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil_C_0
+[2024.04.05-20.33.00:375][606]LogBlueprintUserMessages: [Main_C_16] 19
+[2024.04.05-20.33.01:031][630]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil_C_1
+[2024.04.05-20.33.01:031][630]LogBlueprintUserMessages: [Main_C_16] 18
+[2024.04.05-20.33.01:454][645]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil_C_2
+[2024.04.05-20.33.01:454][645]LogBlueprintUserMessages: [Main_C_16] 17
+[2024.04.05-20.33.01:705][654]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil_C_3
+[2024.04.05-20.33.01:705][654]LogBlueprintUserMessages: [Main_C_16] 16
+[2024.04.05-20.33.01:927][662]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil_C_4
+[2024.04.05-20.33.01:927][662]LogBlueprintUserMessages: [Main_C_16] 15
+[2024.04.05-20.33.02:124][669]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil_C_5
+[2024.04.05-20.33.02:124][669]LogBlueprintUserMessages: [Main_C_16] 14
+[2024.04.05-20.33.02:318][676]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil_C_6
+[2024.04.05-20.33.02:318][676]LogBlueprintUserMessages: [Main_C_16] 13
+[2024.04.05-20.33.02:541][684]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil_C_7
+[2024.04.05-20.33.02:542][684]LogBlueprintUserMessages: [Main_C_16] 12
+[2024.04.05-20.33.02:740][691]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil_C_8
+[2024.04.05-20.33.02:740][691]LogBlueprintUserMessages: [Main_C_16] 11
+[2024.04.05-20.33.02:939][698]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil_C_9
+[2024.04.05-20.33.02:939][698]LogBlueprintUserMessages: [Main_C_16] 10
+[2024.04.05-20.33.03:141][705]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil_C_10
+[2024.04.05-20.33.03:141][705]LogBlueprintUserMessages: [Main_C_16] 9
+[2024.04.05-20.33.03:306][711]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil_C_11
+[2024.04.05-20.33.03:307][711]LogBlueprintUserMessages: [Main_C_16] 8
+[2024.04.05-20.33.03:534][719]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil_C_12
+[2024.04.05-20.33.03:534][719]LogBlueprintUserMessages: [Main_C_16] 7
+[2024.04.05-20.33.03:732][726]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil_C_13
+[2024.04.05-20.33.03:732][726]LogBlueprintUserMessages: [Main_C_16] 6
+[2024.04.05-20.33.03:932][733]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil_C_14
+[2024.04.05-20.33.03:932][733]LogBlueprintUserMessages: [Main_C_16] 5
+[2024.04.05-20.33.04:132][740]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil_C_15
+[2024.04.05-20.33.04:132][740]LogBlueprintUserMessages: [Main_C_16] 4
+[2024.04.05-20.33.04:530][754]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil_C_16
+[2024.04.05-20.33.04:530][754]LogBlueprintUserMessages: [Main_C_16] 3
+[2024.04.05-20.33.04:872][766]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil_C_17
+[2024.04.05-20.33.04:872][766]LogBlueprintUserMessages: [Main_C_16] 2
+[2024.04.05-20.33.05:272][780]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil_C_18
+[2024.04.05-20.33.05:272][780]LogBlueprintUserMessages: [Main_C_16] 1
+[2024.04.05-20.33.08:419][892]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil_C_19
+[2024.04.05-20.33.08:419][892]LogBlueprintUserMessages: [Main_C_16] 0
+[2024.04.05-20.33.09:979][949]LogBlueprintUserMessages: [Main_C_16] Reiniciando jogo...
+[2024.04.05-20.33.10:056][950]LogNet: Browse: /Game/Main
+[2024.04.05-20.33.10:080][950]LogLoad: LoadMap: /Game/Main
+[2024.04.05-20.33.10:080][950]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.33.10:091][950]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.33.10:092][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.33.10:109][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-20.33.10:113][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.05-20.33.10:175][950]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.33.10:185][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008998s)
+[2024.04.05-20.33.10:185][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.009055s)
+[2024.04.05-20.33.10:185][950]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main'.
+[2024.04.05-20.33.10:185][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.33.10:185][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.33.10:186][950]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.33.10:186][950]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2024.04.05-20.33.10:186][950]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.33.10:199][950]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.33.10
+[2024.04.05-20.33.10:199][950]LogWorld: Bringing up level for play took: 0.013157
+[2024.04.05-20.33.10:201][950]LogBlueprintUserMessages: [Main_C_16] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.33.10:201][950]LogBlueprintUserMessages: [Main_C_16] 20
+[2024.04.05-20.33.10:237][950]LogLoad: Took 0.156771 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2024.04.05-20.33.12:390][ 24]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil_C_0
+[2024.04.05-20.33.12:390][ 24]LogBlueprintUserMessages: [Main_C_16] 19
+[2024.04.05-20.33.12:621][ 32]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil_C_1
+[2024.04.05-20.33.12:621][ 32]LogBlueprintUserMessages: [Main_C_16] 18
+[2024.04.05-20.33.12:824][ 39]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil_C_2
+[2024.04.05-20.33.12:824][ 39]LogBlueprintUserMessages: [Main_C_16] 17
+[2024.04.05-20.33.13:028][ 46]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil_C_3
+[2024.04.05-20.33.13:028][ 46]LogBlueprintUserMessages: [Main_C_16] 16
+[2024.04.05-20.33.13:207][ 52]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil_C_4
+[2024.04.05-20.33.13:207][ 52]LogBlueprintUserMessages: [Main_C_16] 15
+[2024.04.05-20.33.13:608][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.33.13:608][ 64]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.33.13:610][ 64]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.05-20.33.13:622][ 64]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.33.13:623][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.33.13:627][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-20.33.13:633][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.33.13:655][ 64]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.05-20.33.13:656][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.05-20.33.13:657][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.05-20.33.13:666][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.04.05-20.33.13:726][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.04.05-20.33.54:277][368]LogEditorTransaction: Undo Create Pin Link
+[2024.04.05-20.33.54:826][378]LogEditorTransaction: Undo Delete current selection
+[2024.04.05-20.33.55:273][420]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.33.55:736][464]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.33.56:083][494]LogEditorTransaction: Undo Break Pin Link
+[2024.04.05-20.33.56:331][512]LogEditorTransaction: Undo Create Pin Link
+[2024.04.05-20.33.56:659][540]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.33.57:071][578]LogEditorTransaction: Undo Change Text Pin Value
+[2024.04.05-20.33.57:485][616]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.33.57:906][655]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.33.58:266][660]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.33.58:847][706]LogEditorTransaction: Undo Change Number Pin Value
+[2024.04.05-20.33.59:267][745]LogEditorTransaction: Undo Add Node
+[2024.04.05-20.34.00:194][845]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.34.00:738][895]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.34.01:433][966]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.34.02:027][978]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.34.02:913][ 73]LogEditorTransaction: Undo Create Pin Link
+[2024.04.05-20.34.03:586][143]LogEditorTransaction: Undo Move Node
+[2024.04.05-20.34.04:252][212]LogEditorTransaction: Undo Move Nodes
+[2024.04.05-20.34.04:770][263]LogEditorTransaction: Undo Change Text Pin Value
+[2024.04.05-20.35.00:264][188]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.35.00:268][188]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-20.35.00:268][188]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2024.04.05-20.35.00:333][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.05-20.35.00:336][188]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2024.04.05-20.35.00:336][188]PIE: New page: PIE session: Main (5 de abr de 2024 14:35:00)
+[2024.04.05-20.35.00:336][188]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2024.04.05-20.35.00:338][188]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.04.05-20.35.00:386][189]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.35.00:397][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010216s)
+[2024.04.05-20.35.00:397][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.010281s)
+[2024.04.05-20.35.00:413][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.05-20.35.00:417][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.35.00:417][189]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.35.00:417][189]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.35.00:418][189]LogPlayLevel: PIE: World Init took: (0.002252s)
+[2024.04.05-20.35.00:419][189]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.05-20.35.00:419][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-20.35.00:419][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-20.35.00:419][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-20.35.00:419][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-20.35.00:419][189]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.05-20.35.00:419][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.05-20.35.00:419][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.05-20.35.00:419][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-20.35.00:419][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-20.35.00:419][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-20.35.00:419][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-20.35.00:421][189]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-20.35.00:468][189]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2024.04.05-20.35.00:468][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-20.35.00:468][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-20.35.00:468][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-20.35.00:469][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.05-20.35.00:469][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.04.05-20.35.00:472][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.05-20.35.00:472][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.05-20.35.00:472][189]LogInit: FAudioDevice initialized with ID 15.
+[2024.04.05-20.35.00:472][189]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main'.
+[2024.04.05-20.35.00:472][189]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.05-20.35.00:539][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.35.00:539][189]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.35.00:542][189]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.35.00
+[2024.04.05-20.35.00:542][189]LogWorld: Bringing up level for play took: 0.003357
+[2024.04.05-20.35.00:544][189]LogBlueprintUserMessages: [Main_C_17] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.35.00:544][189]LogBlueprintUserMessages: [Main_C_17] 20
+[2024.04.05-20.35.00:546][189]PIE: Server logged in
+[2024.04.05-20.35.00:548][189]PIE: Play in editor total start time 0,28 seconds.
+[2024.04.05-20.35.00:573][189]LogViewport: Scene viewport resized to 1280x680, mode Windowed.
+[2024.04.05-20.35.01:898][208]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil_C_0
+[2024.04.05-20.35.01:898][208]LogBlueprintUserMessages: [Main_C_17] 19
+[2024.04.05-20.35.02:117][215]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil_C_1
+[2024.04.05-20.35.02:117][215]LogBlueprintUserMessages: [Main_C_17] 18
+[2024.04.05-20.35.02:275][220]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil_C_2
+[2024.04.05-20.35.02:275][220]LogBlueprintUserMessages: [Main_C_17] 17
+[2024.04.05-20.35.02:443][225]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil_C_3
+[2024.04.05-20.35.02:443][225]LogBlueprintUserMessages: [Main_C_17] 16
+[2024.04.05-20.35.02:584][230]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil_C_4
+[2024.04.05-20.35.02:584][230]LogBlueprintUserMessages: [Main_C_17] 15
+[2024.04.05-20.35.02:742][235]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil_C_5
+[2024.04.05-20.35.02:742][235]LogBlueprintUserMessages: [Main_C_17] 14
+[2024.04.05-20.35.02:903][240]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil_C_6
+[2024.04.05-20.35.02:903][240]LogBlueprintUserMessages: [Main_C_17] 13
+[2024.04.05-20.35.03:071][246]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil_C_7
+[2024.04.05-20.35.03:071][246]LogBlueprintUserMessages: [Main_C_17] 12
+[2024.04.05-20.35.03:248][252]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil_C_8
+[2024.04.05-20.35.03:248][252]LogBlueprintUserMessages: [Main_C_17] 11
+[2024.04.05-20.35.03:418][258]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil_C_9
+[2024.04.05-20.35.03:418][258]LogBlueprintUserMessages: [Main_C_17] 10
+[2024.04.05-20.35.03:598][264]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil_C_10
+[2024.04.05-20.35.03:598][264]LogBlueprintUserMessages: [Main_C_17] 9
+[2024.04.05-20.35.03:763][270]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil_C_11
+[2024.04.05-20.35.03:763][270]LogBlueprintUserMessages: [Main_C_17] 8
+[2024.04.05-20.35.03:960][277]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil_C_12
+[2024.04.05-20.35.03:960][277]LogBlueprintUserMessages: [Main_C_17] 7
+[2024.04.05-20.35.04:105][282]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil_C_13
+[2024.04.05-20.35.04:105][282]LogBlueprintUserMessages: [Main_C_17] 6
+[2024.04.05-20.35.04:654][301]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil_C_14
+[2024.04.05-20.35.04:654][301]LogBlueprintUserMessages: [Main_C_17] 5
+[2024.04.05-20.35.04:851][308]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil_C_15
+[2024.04.05-20.35.04:851][308]LogBlueprintUserMessages: [Main_C_17] 4
+[2024.04.05-20.35.04:997][313]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil_C_16
+[2024.04.05-20.35.04:997][313]LogBlueprintUserMessages: [Main_C_17] 3
+[2024.04.05-20.35.05:188][320]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil_C_17
+[2024.04.05-20.35.05:188][320]LogBlueprintUserMessages: [Main_C_17] 2
+[2024.04.05-20.35.05:362][326]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil_C_18
+[2024.04.05-20.35.05:362][326]LogBlueprintUserMessages: [Main_C_17] 1
+[2024.04.05-20.35.05:533][332]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil_C_19
+[2024.04.05-20.35.05:533][332]LogBlueprintUserMessages: [Main_C_17] 0
+[2024.04.05-20.35.05:732][339]LogBlueprintUserMessages: [Main_C_17] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.35.10:741][521]LogNet: Browse: /Game/Main
+[2024.04.05-20.35.10:741][521]LogLoad: LoadMap: /Game/Main
+[2024.04.05-20.35.10:741][521]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.35.10:741][521]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.35.10:741][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.35.10:761][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-20.35.10:770][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.04.05-20.35.10:773][521]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.35.10:783][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009744s)
+[2024.04.05-20.35.10:783][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.009803s)
+[2024.04.05-20.35.10:783][521]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main'.
+[2024.04.05-20.35.10:783][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.35.10:783][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.35.10:783][521]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.35.10:788][521]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2024.04.05-20.35.10:788][521]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.35.10:788][521]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.35.10
+[2024.04.05-20.35.10:788][521]LogWorld: Bringing up level for play took: 0.003919
+[2024.04.05-20.35.10:789][521]LogBlueprintUserMessages: [Main_C_17] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.35.10:789][521]LogBlueprintUserMessages: [Main_C_17] 20
+[2024.04.05-20.35.10:789][521]LogLoad: Took 0.050491 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2024.04.05-20.35.13:739][628]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil_C_0
+[2024.04.05-20.35.13:739][628]LogBlueprintUserMessages: [Main_C_17] 19
+[2024.04.05-20.35.13:931][634]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil_C_1
+[2024.04.05-20.35.13:931][634]LogBlueprintUserMessages: [Main_C_17] 18
+[2024.04.05-20.35.14:121][642]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil_C_2
+[2024.04.05-20.35.14:121][642]LogBlueprintUserMessages: [Main_C_17] 17
+[2024.04.05-20.35.14:318][650]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil_C_3
+[2024.04.05-20.35.14:318][650]LogBlueprintUserMessages: [Main_C_17] 16
+[2024.04.05-20.35.14:516][658]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil_C_4
+[2024.04.05-20.35.14:516][658]LogBlueprintUserMessages: [Main_C_17] 15
+[2024.04.05-20.35.14:711][666]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil_C_5
+[2024.04.05-20.35.14:711][666]LogBlueprintUserMessages: [Main_C_17] 14
+[2024.04.05-20.35.14:932][675]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil_C_6
+[2024.04.05-20.35.14:932][675]LogBlueprintUserMessages: [Main_C_17] 13
+[2024.04.05-20.35.15:155][684]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil_C_7
+[2024.04.05-20.35.15:155][684]LogBlueprintUserMessages: [Main_C_17] 12
+[2024.04.05-20.35.15:376][693]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil_C_8
+[2024.04.05-20.35.15:376][693]LogBlueprintUserMessages: [Main_C_17] 11
+[2024.04.05-20.35.15:596][702]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil_C_9
+[2024.04.05-20.35.15:596][702]LogBlueprintUserMessages: [Main_C_17] 10
+[2024.04.05-20.35.15:818][711]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil_C_10
+[2024.04.05-20.35.15:819][711]LogBlueprintUserMessages: [Main_C_17] 9
+[2024.04.05-20.35.16:043][720]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil_C_11
+[2024.04.05-20.35.16:043][720]LogBlueprintUserMessages: [Main_C_17] 8
+[2024.04.05-20.35.16:263][729]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil_C_12
+[2024.04.05-20.35.16:263][729]LogBlueprintUserMessages: [Main_C_17] 7
+[2024.04.05-20.35.16:488][738]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil_C_13
+[2024.04.05-20.35.16:489][738]LogBlueprintUserMessages: [Main_C_17] 6
+[2024.04.05-20.35.16:711][747]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil_C_14
+[2024.04.05-20.35.16:711][747]LogBlueprintUserMessages: [Main_C_17] 5
+[2024.04.05-20.35.16:960][757]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil_C_15
+[2024.04.05-20.35.16:960][757]LogBlueprintUserMessages: [Main_C_17] 4
+[2024.04.05-20.35.17:210][767]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil_C_16
+[2024.04.05-20.35.17:210][767]LogBlueprintUserMessages: [Main_C_17] 3
+[2024.04.05-20.35.17:457][777]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil_C_17
+[2024.04.05-20.35.17:457][777]LogBlueprintUserMessages: [Main_C_17] 2
+[2024.04.05-20.35.17:681][786]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil_C_18
+[2024.04.05-20.35.17:681][786]LogBlueprintUserMessages: [Main_C_17] 1
+[2024.04.05-20.35.17:909][795]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil_C_19
+[2024.04.05-20.35.17:911][795]LogBlueprintUserMessages: [Main_C_17] 0
+[2024.04.05-20.35.18:137][804]LogBlueprintUserMessages: [Main_C_17] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.35.18:364][813]LogBlueprintUserMessages: [Main_C_17] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.35.23:150][  3]LogNet: Browse: /Game/Main
+[2024.04.05-20.35.23:150][  3]LogLoad: LoadMap: /Game/Main
+[2024.04.05-20.35.23:150][  3]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.35.23:151][  3]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.35.23:151][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.35.23:177][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-20.35.23:190][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.05-20.35.23:193][  3]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.35.23:203][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010624s)
+[2024.04.05-20.35.23:203][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.010685s)
+[2024.04.05-20.35.23:203][  3]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main'.
+[2024.04.05-20.35.23:203][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.35.23:203][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.35.23:204][  3]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.35.23:204][  3]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2024.04.05-20.35.23:204][  3]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.35.23:207][  3]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.35.23
+[2024.04.05-20.35.23:208][  3]LogWorld: Bringing up level for play took: 0.003581
+[2024.04.05-20.35.23:210][  3]LogBlueprintUserMessages: [Main_C_17] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.35.23:210][  3]LogBlueprintUserMessages: [Main_C_17] 20
+[2024.04.05-20.35.23:210][  3]LogLoad: Took 0.059781 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2024.04.05-20.35.23:486][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.35.23:486][ 11]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.35.23:487][ 11]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.05-20.35.23:495][ 11]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.35.23:495][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.35.23:500][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-20.35.23:511][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.35.23:536][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.05-20.35.23:536][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.05-20.35.23:538][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.05-20.35.23:548][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.05-20.35.23:612][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.04.05-20.35.45:765][424]BlueprintLog: New page: Collapse to Function
+[2024.04.05-20.35.54:282][418]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.35.54:288][418]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-20.35.54:289][418]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2024.04.05-20.35.54:341][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.05-20.35.54:344][418]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2024.04.05-20.35.54:344][418]PIE: New page: PIE session: Main (5 de abr de 2024 14:35:54)
+[2024.04.05-20.35.54:344][418]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2024.04.05-20.35.54:346][418]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.04.05-20.35.54:396][419]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.35.54:406][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009740s)
+[2024.04.05-20.35.54:406][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.009875s)
+[2024.04.05-20.35.54:422][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.05-20.35.54:422][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.35.54:424][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.35.54:424][419]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.35.54:425][419]LogPlayLevel: PIE: World Init took: (0.001876s)
+[2024.04.05-20.35.54:425][419]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.04.05-20.35.54:425][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-20.35.54:425][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-20.35.54:425][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-20.35.54:425][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-20.35.54:425][419]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.05-20.35.54:425][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.05-20.35.54:425][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.05-20.35.54:426][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-20.35.54:426][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-20.35.54:426][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-20.35.54:426][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-20.35.54:428][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-20.35.54:472][419]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2024.04.05-20.35.54:473][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-20.35.54:473][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-20.35.54:473][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-20.35.54:473][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.04.05-20.35.54:473][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.04.05-20.35.54:476][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.04.05-20.35.54:476][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.04.05-20.35.54:476][419]LogInit: FAudioDevice initialized with ID 16.
+[2024.04.05-20.35.54:476][419]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2024.04.05-20.35.54:476][419]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.05-20.35.54:532][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.35.54:532][419]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.35.54:536][419]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.35.54
+[2024.04.05-20.35.54:536][419]LogWorld: Bringing up level for play took: 0.004303
+[2024.04.05-20.35.54:538][419]LogBlueprintUserMessages: [Main_C_18] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.35.54:538][419]LogBlueprintUserMessages: [Main_C_18] 20
+[2024.04.05-20.35.54:539][419]PIE: Server logged in
+[2024.04.05-20.35.54:541][419]PIE: Play in editor total start time 0,253 seconds.
+[2024.04.05-20.35.54:570][419]LogViewport: Scene viewport resized to 1280x680, mode Windowed.
+[2024.04.05-20.35.56:131][451]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil_C_0
+[2024.04.05-20.35.56:131][451]LogBlueprintUserMessages: [Main_C_18] 19
+[2024.04.05-20.35.57:267][493]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil_C_1
+[2024.04.05-20.35.57:267][493]LogBlueprintUserMessages: [Main_C_18] 18
+[2024.04.05-20.35.57:508][502]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil_C_2
+[2024.04.05-20.35.57:509][502]LogBlueprintUserMessages: [Main_C_18] 17
+[2024.04.05-20.35.57:706][509]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil_C_3
+[2024.04.05-20.35.57:706][509]LogBlueprintUserMessages: [Main_C_18] 16
+[2024.04.05-20.35.57:894][516]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil_C_4
+[2024.04.05-20.35.57:895][516]LogBlueprintUserMessages: [Main_C_18] 15
+[2024.04.05-20.35.58:112][524]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil_C_5
+[2024.04.05-20.35.58:112][524]LogBlueprintUserMessages: [Main_C_18] 14
+[2024.04.05-20.35.58:331][532]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil_C_6
+[2024.04.05-20.35.58:331][532]LogBlueprintUserMessages: [Main_C_18] 13
+[2024.04.05-20.35.58:548][540]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil_C_7
+[2024.04.05-20.35.58:548][540]LogBlueprintUserMessages: [Main_C_18] 12
+[2024.04.05-20.35.58:738][547]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil_C_8
+[2024.04.05-20.35.58:738][547]LogBlueprintUserMessages: [Main_C_18] 11
+[2024.04.05-20.35.58:979][556]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil_C_9
+[2024.04.05-20.35.58:979][556]LogBlueprintUserMessages: [Main_C_18] 10
+[2024.04.05-20.36.00:045][595]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil_C_10
+[2024.04.05-20.36.00:045][595]LogBlueprintUserMessages: [Main_C_18] 9
+[2024.04.05-20.36.00:260][603]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil_C_11
+[2024.04.05-20.36.00:260][603]LogBlueprintUserMessages: [Main_C_18] 8
+[2024.04.05-20.36.00:455][610]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil_C_12
+[2024.04.05-20.36.00:455][610]LogBlueprintUserMessages: [Main_C_18] 7
+[2024.04.05-20.36.00:675][618]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil_C_13
+[2024.04.05-20.36.00:675][618]LogBlueprintUserMessages: [Main_C_18] 6
+[2024.04.05-20.36.00:868][625]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil_C_14
+[2024.04.05-20.36.00:868][625]LogBlueprintUserMessages: [Main_C_18] 5
+[2024.04.05-20.36.01:087][633]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil_C_15
+[2024.04.05-20.36.01:088][633]LogBlueprintUserMessages: [Main_C_18] 4
+[2024.04.05-20.36.01:309][641]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil_C_16
+[2024.04.05-20.36.01:309][641]LogBlueprintUserMessages: [Main_C_18] 3
+[2024.04.05-20.36.01:522][649]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil_C_17
+[2024.04.05-20.36.01:522][649]LogBlueprintUserMessages: [Main_C_18] 2
+[2024.04.05-20.36.01:740][657]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil_C_18
+[2024.04.05-20.36.01:740][657]LogBlueprintUserMessages: [Main_C_18] 1
+[2024.04.05-20.36.01:957][665]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil_C_19
+[2024.04.05-20.36.01:957][665]LogBlueprintUserMessages: [Main_C_18] 0
+[2024.04.05-20.36.02:178][673]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.02:402][681]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.02:617][689]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.05:825][809]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.07:190][860]LogNet: Browse: /Game/Main
+[2024.04.05-20.36.07:190][860]LogLoad: LoadMap: /Game/Main
+[2024.04.05-20.36.07:190][860]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.36.07:191][860]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.36.07:192][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.36.07:233][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-20.36.07:237][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.05-20.36.07:239][860]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.36.07:250][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010846s)
+[2024.04.05-20.36.07:250][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.010900s)
+[2024.04.05-20.36.07:250][860]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2024.04.05-20.36.07:250][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.36.07:250][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.36.07:250][860]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.36.07:251][860]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2024.04.05-20.36.07:251][860]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.36.07:256][860]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.36.07
+[2024.04.05-20.36.07:257][860]LogWorld: Bringing up level for play took: 0.005244
+[2024.04.05-20.36.07:258][860]LogBlueprintUserMessages: [Main_C_18] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.36.07:258][860]LogBlueprintUserMessages: [Main_C_18] 20
+[2024.04.05-20.36.07:258][860]LogLoad: Took 0.066996 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2024.04.05-20.36.09:948][959]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil_C_0
+[2024.04.05-20.36.09:948][959]LogBlueprintUserMessages: [Main_C_18] 19
+[2024.04.05-20.36.10:138][966]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil_C_1
+[2024.04.05-20.36.10:138][966]LogBlueprintUserMessages: [Main_C_18] 18
+[2024.04.05-20.36.10:329][973]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil_C_2
+[2024.04.05-20.36.10:329][973]LogBlueprintUserMessages: [Main_C_18] 17
+[2024.04.05-20.36.10:549][981]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil_C_3
+[2024.04.05-20.36.10:549][981]LogBlueprintUserMessages: [Main_C_18] 16
+[2024.04.05-20.36.10:768][989]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil_C_4
+[2024.04.05-20.36.10:768][989]LogBlueprintUserMessages: [Main_C_18] 15
+[2024.04.05-20.36.10:956][996]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil_C_5
+[2024.04.05-20.36.10:956][996]LogBlueprintUserMessages: [Main_C_18] 14
+[2024.04.05-20.36.11:179][  4]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil_C_6
+[2024.04.05-20.36.11:179][  4]LogBlueprintUserMessages: [Main_C_18] 13
+[2024.04.05-20.36.11:369][ 11]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil_C_7
+[2024.04.05-20.36.11:369][ 11]LogBlueprintUserMessages: [Main_C_18] 12
+[2024.04.05-20.36.11:616][ 20]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil_C_8
+[2024.04.05-20.36.11:616][ 20]LogBlueprintUserMessages: [Main_C_18] 11
+[2024.04.05-20.36.11:805][ 27]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil_C_9
+[2024.04.05-20.36.11:805][ 27]LogBlueprintUserMessages: [Main_C_18] 10
+[2024.04.05-20.36.12:024][ 35]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil_C_10
+[2024.04.05-20.36.12:024][ 35]LogBlueprintUserMessages: [Main_C_18] 9
+[2024.04.05-20.36.12:246][ 42]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil_C_11
+[2024.04.05-20.36.12:246][ 42]LogBlueprintUserMessages: [Main_C_18] 8
+[2024.04.05-20.36.12:493][ 51]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil_C_12
+[2024.04.05-20.36.12:493][ 51]LogBlueprintUserMessages: [Main_C_18] 7
+[2024.04.05-20.36.12:688][ 58]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil_C_13
+[2024.04.05-20.36.12:688][ 58]LogBlueprintUserMessages: [Main_C_18] 6
+[2024.04.05-20.36.12:910][ 66]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil_C_14
+[2024.04.05-20.36.12:910][ 66]LogBlueprintUserMessages: [Main_C_18] 5
+[2024.04.05-20.36.13:135][ 74]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil_C_15
+[2024.04.05-20.36.13:135][ 74]LogBlueprintUserMessages: [Main_C_18] 4
+[2024.04.05-20.36.13:367][ 82]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil_C_16
+[2024.04.05-20.36.13:367][ 82]LogBlueprintUserMessages: [Main_C_18] 3
+[2024.04.05-20.36.13:577][ 90]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil_C_17
+[2024.04.05-20.36.13:578][ 90]LogBlueprintUserMessages: [Main_C_18] 2
+[2024.04.05-20.36.13:800][ 98]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil_C_18
+[2024.04.05-20.36.13:800][ 98]LogBlueprintUserMessages: [Main_C_18] 1
+[2024.04.05-20.36.14:022][106]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil_C_19
+[2024.04.05-20.36.14:022][106]LogBlueprintUserMessages: [Main_C_18] 0
+[2024.04.05-20.36.14:246][114]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.14:468][122]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.14:690][130]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.14:912][138]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.15:136][146]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.15:329][153]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.15:577][162]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.15:797][170]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.16:016][178]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.16:236][186]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.16:482][195]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.16:700][203]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.16:946][212]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.17:164][220]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.17:375][227]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.17:599][235]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.17:854][244]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.18:056][251]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.18:306][259]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.18:539][267]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.18:753][275]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.18:977][283]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.19:189][291]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.19:267][294]LogNet: Browse: /Game/Main
+[2024.04.05-20.36.19:267][294]LogLoad: LoadMap: /Game/Main
+[2024.04.05-20.36.19:267][294]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.36.19:268][294]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.36.19:275][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.36.19:288][294]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-20.36.19:300][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.05-20.36.19:302][294]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.36.19:311][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009235s)
+[2024.04.05-20.36.19:311][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.009287s)
+[2024.04.05-20.36.19:311][294]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2024.04.05-20.36.19:311][294]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.36.19:311][294]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.36.19:312][294]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.36.19:312][294]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2024.04.05-20.36.19:312][294]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.36.19:316][294]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.36.19
+[2024.04.05-20.36.19:316][294]LogWorld: Bringing up level for play took: 0.003161
+[2024.04.05-20.36.19:317][294]LogBlueprintUserMessages: [Main_C_18] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.36.19:317][294]LogBlueprintUserMessages: [Main_C_18] 20
+[2024.04.05-20.36.19:318][294]LogLoad: Took 0.050513 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2024.04.05-20.36.19:453][298]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil_C_0
+[2024.04.05-20.36.19:454][298]LogBlueprintUserMessages: [Main_C_18] 19
+[2024.04.05-20.36.19:642][305]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil_C_1
+[2024.04.05-20.36.19:643][305]LogBlueprintUserMessages: [Main_C_18] 18
+[2024.04.05-20.36.23:806][467]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil_C_2
+[2024.04.05-20.36.23:806][467]LogBlueprintUserMessages: [Main_C_18] 17
+[2024.04.05-20.36.24:345][487]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil_C_3
+[2024.04.05-20.36.24:345][487]LogBlueprintUserMessages: [Main_C_18] 16
+[2024.04.05-20.36.24:977][510]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil_C_4
+[2024.04.05-20.36.24:977][510]LogBlueprintUserMessages: [Main_C_18] 15
+[2024.04.05-20.36.25:504][529]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil_C_5
+[2024.04.05-20.36.25:504][529]LogBlueprintUserMessages: [Main_C_18] 14
+[2024.04.05-20.36.26:033][548]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil_C_6
+[2024.04.05-20.36.26:033][548]LogBlueprintUserMessages: [Main_C_18] 13
+[2024.04.05-20.36.26:534][566]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil_C_7
+[2024.04.05-20.36.26:534][566]LogBlueprintUserMessages: [Main_C_18] 12
+[2024.04.05-20.36.27:027][584]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil_C_8
+[2024.04.05-20.36.27:027][584]LogBlueprintUserMessages: [Main_C_18] 11
+[2024.04.05-20.36.27:524][602]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil_C_9
+[2024.04.05-20.36.27:524][602]LogBlueprintUserMessages: [Main_C_18] 10
+[2024.04.05-20.36.28:019][620]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil_C_10
+[2024.04.05-20.36.28:019][620]LogBlueprintUserMessages: [Main_C_18] 9
+[2024.04.05-20.36.28:460][636]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil_C_11
+[2024.04.05-20.36.28:460][636]LogBlueprintUserMessages: [Main_C_18] 8
+[2024.04.05-20.36.28:867][651]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil_C_12
+[2024.04.05-20.36.28:867][651]LogBlueprintUserMessages: [Main_C_18] 7
+[2024.04.05-20.36.29:249][665]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil_C_13
+[2024.04.05-20.36.29:249][665]LogBlueprintUserMessages: [Main_C_18] 6
+[2024.04.05-20.36.29:640][679]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil_C_14
+[2024.04.05-20.36.29:640][679]LogBlueprintUserMessages: [Main_C_18] 5
+[2024.04.05-20.36.30:078][695]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil_C_15
+[2024.04.05-20.36.30:078][695]LogBlueprintUserMessages: [Main_C_18] 4
+[2024.04.05-20.36.30:460][709]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil_C_16
+[2024.04.05-20.36.30:460][709]LogBlueprintUserMessages: [Main_C_18] 3
+[2024.04.05-20.36.30:760][720]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil_C_17
+[2024.04.05-20.36.30:760][720]LogBlueprintUserMessages: [Main_C_18] 2
+[2024.04.05-20.36.31:037][730]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil_C_18
+[2024.04.05-20.36.31:037][730]LogBlueprintUserMessages: [Main_C_18] 1
+[2024.04.05-20.36.31:397][743]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil_C_19
+[2024.04.05-20.36.31:397][743]LogBlueprintUserMessages: [Main_C_18] 0
+[2024.04.05-20.36.31:785][757]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.33:191][808]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.36.36:795][940]LogNet: Browse: /Game/Main
+[2024.04.05-20.36.36:795][940]LogLoad: LoadMap: /Game/Main
+[2024.04.05-20.36.36:795][940]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.36.36:796][940]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.36.36:797][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.36.36:823][940]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-20.36.36:827][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.04.05-20.36.36:829][940]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.36.36:839][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009211s)
+[2024.04.05-20.36.36:839][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.009267s)
+[2024.04.05-20.36.36:839][940]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2024.04.05-20.36.36:839][940]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.36.36:839][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.36.36:839][940]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.36.36:840][940]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2024.04.05-20.36.36:840][940]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.36.36:843][940]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.36.36
+[2024.04.05-20.36.36:843][940]LogWorld: Bringing up level for play took: 0.003303
+[2024.04.05-20.36.36:845][940]LogBlueprintUserMessages: [Main_C_18] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.36.36:845][940]LogBlueprintUserMessages: [Main_C_18] 20
+[2024.04.05-20.36.36:845][940]LogLoad: Took 0.049818 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2024.04.05-20.36.39:705][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.36.39:705][ 46]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.36.39:706][ 46]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.05-20.36.39:717][ 46]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.36.39:718][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.36.39:720][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-20.36.39:727][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.36.39:748][ 46]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.05-20.36.39:749][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.05-20.36.39:751][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.05-20.36.39:760][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.05-20.36.39:821][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.04.05-20.38.34:786][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.05-20.38.34:836][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.05-20.38.34:874][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.05-20.38.34:911][554]LogSavePackage: Moving output files for package: /Game/Main
+[2024.04.05-20.38.34:911][554]LogSavePackage: Moving '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/MainEADB645447555EDD3EC83D943404B518.tmp' to '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Content/Main.umap'
+[2024.04.05-20.38.34:921][554]LogFileHelpers: Saving map 'Main' took 0.085
+[2024.04.05-20.38.34:930][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.93 sec)
+[2024.04.05-20.38.34:932][554]AssetCheck: New page: Asset Save: Main
+[2024.04.05-20.38.34:933][554]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2024.04.05-20.38.54:359][160]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.05-20.40.03:552][354]Cmd: EDIT COPY
+[2024.04.05-20.40.03:839][359]Cmd: EDIT PASTE
+[2024.04.05-20.40.19:256][860]Cmd: EDIT COPY
+[2024.04.05-20.40.20:729][910]Cmd: EDIT PASTE
+[2024.04.05-20.40.39:632][543]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-20.40.39:638][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.05-20.40.39:638][543]PIE: New page: PIE session: Main (5 de abr de 2024 14:40:39)
+[2024.04.05-20.40.39:685][543]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2024.04.05-20.40.39:688][543]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.04.05-20.40.39:733][544]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.40.39:744][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011761s)
+[2024.04.05-20.40.39:744][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.011815s)
+[2024.04.05-20.40.39:765][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.05-20.40.39:769][544]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.40.39:769][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.40.39:769][544]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.40.39:770][544]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2024.04.05-20.40.39:770][544]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.04.05-20.40.39:770][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-20.40.39:770][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-20.40.39:770][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-20.40.39:770][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-20.40.39:770][544]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.05-20.40.39:770][544]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.05-20.40.39:770][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.05-20.40.39:770][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-20.40.39:771][544]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-20.40.39:771][544]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-20.40.39:771][544]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-20.40.39:773][544]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-20.40.39:818][544]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2024.04.05-20.40.39:818][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-20.40.39:818][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-20.40.39:818][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-20.40.39:820][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.04.05-20.40.39:820][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.04.05-20.40.39:822][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.04.05-20.40.39:822][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.04.05-20.40.39:822][544]LogInit: FAudioDevice initialized with ID 17.
+[2024.04.05-20.40.39:822][544]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main'.
+[2024.04.05-20.40.39:822][544]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.05-20.40.39:825][544]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.40.39:830][544]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.40.39
+[2024.04.05-20.40.39:830][544]LogWorld: Bringing up level for play took: 0.005380
+[2024.04.05-20.40.39:832][544]LogBlueprintUserMessages: [Main_C_18] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.40.39:832][544]LogBlueprintUserMessages: [Main_C_18] 20
+[2024.04.05-20.40.39:832][544]PIE: Server logged in
+[2024.04.05-20.40.39:832][544]PIE: Play in editor total start time 0,195 seconds.
+[2024.04.05-20.40.43:879][585]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil0
+[2024.04.05-20.40.43:879][585]LogBlueprintUserMessages: [Main_C_18] 19
+[2024.04.05-20.40.44:533][597]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil1
+[2024.04.05-20.40.44:533][597]LogBlueprintUserMessages: [Main_C_18] 18
+[2024.04.05-20.40.44:912][604]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil2
+[2024.04.05-20.40.44:912][604]LogBlueprintUserMessages: [Main_C_18] 17
+[2024.04.05-20.40.45:180][609]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil3
+[2024.04.05-20.40.45:180][609]LogBlueprintUserMessages: [Main_C_18] 16
+[2024.04.05-20.40.45:399][613]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil4
+[2024.04.05-20.40.45:399][613]LogBlueprintUserMessages: [Main_C_18] 15
+[2024.04.05-20.40.45:824][621]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil5
+[2024.04.05-20.40.45:824][621]LogBlueprintUserMessages: [Main_C_18] 14
+[2024.04.05-20.40.46:087][626]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil6
+[2024.04.05-20.40.46:087][626]LogBlueprintUserMessages: [Main_C_18] 13
+[2024.04.05-20.40.46:351][631]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil7
+[2024.04.05-20.40.46:351][631]LogBlueprintUserMessages: [Main_C_18] 12
+[2024.04.05-20.40.46:570][635]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil8
+[2024.04.05-20.40.46:570][635]LogBlueprintUserMessages: [Main_C_18] 11
+[2024.04.05-20.40.46:867][640]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil9
+[2024.04.05-20.40.46:867][640]LogBlueprintUserMessages: [Main_C_18] 10
+[2024.04.05-20.40.47:099][645]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil10
+[2024.04.05-20.40.47:099][645]LogBlueprintUserMessages: [Main_C_18] 9
+[2024.04.05-20.40.47:353][650]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil11
+[2024.04.05-20.40.47:353][650]LogBlueprintUserMessages: [Main_C_18] 8
+[2024.04.05-20.40.47:770][660]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil12
+[2024.04.05-20.40.47:770][660]LogBlueprintUserMessages: [Main_C_18] 7
+[2024.04.05-20.40.48:238][672]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil13
+[2024.04.05-20.40.48:239][672]LogBlueprintUserMessages: [Main_C_18] 6
+[2024.04.05-20.40.48:606][682]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil14
+[2024.04.05-20.40.48:606][682]LogBlueprintUserMessages: [Main_C_18] 5
+[2024.04.05-20.40.48:887][690]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil15
+[2024.04.05-20.40.48:887][690]LogBlueprintUserMessages: [Main_C_18] 4
+[2024.04.05-20.40.49:540][708]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil16
+[2024.04.05-20.40.49:540][708]LogBlueprintUserMessages: [Main_C_18] 3
+[2024.04.05-20.40.49:762][714]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil17
+[2024.04.05-20.40.49:762][714]LogBlueprintUserMessages: [Main_C_18] 2
+[2024.04.05-20.40.50:007][721]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil18
+[2024.04.05-20.40.50:008][721]LogBlueprintUserMessages: [Main_C_18] 1
+[2024.04.05-20.40.50:551][736]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil19
+[2024.04.05-20.40.50:551][736]LogBlueprintUserMessages: [Main_C_18] 0
+[2024.04.05-20.40.51:014][749]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.40.56:013][892]LogNet: Browse: /Game/Main
+[2024.04.05-20.40.56:013][892]LogLoad: LoadMap: /Game/Main
+[2024.04.05-20.40.56:013][892]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.40.56:013][892]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.40.56:013][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.40.56:032][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-20.40.56:050][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2024.04.05-20.40.56:068][892]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.40.56:080][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011080s)
+[2024.04.05-20.40.56:080][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.011136s)
+[2024.04.05-20.40.56:080][892]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main'.
+[2024.04.05-20.40.56:080][892]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.40.56:080][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.40.56:080][892]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.40.56:081][892]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2024.04.05-20.40.56:081][892]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.40.56:084][892]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.40.56
+[2024.04.05-20.40.56:084][892]LogWorld: Bringing up level for play took: 0.003953
+[2024.04.05-20.40.56:086][892]LogBlueprintUserMessages: [Main_C_18] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.40.56:086][892]LogBlueprintUserMessages: [Main_C_18] 20
+[2024.04.05-20.40.56:086][892]LogLoad: Took 0.077072 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2024.04.05-20.40.58:878][975]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil0
+[2024.04.05-20.40.58:878][975]LogBlueprintUserMessages: [Main_C_18] 19
+[2024.04.05-20.41.00:187][ 15]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil1
+[2024.04.05-20.41.00:187][ 15]LogBlueprintUserMessages: [Main_C_18] 18
+[2024.04.05-20.41.01:924][ 67]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil2
+[2024.04.05-20.41.01:924][ 67]LogBlueprintUserMessages: [Main_C_18] 17
+[2024.04.05-20.41.02:819][ 93]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil3
+[2024.04.05-20.41.02:819][ 93]LogBlueprintUserMessages: [Main_C_18] 16
+[2024.04.05-20.41.04:412][140]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil4
+[2024.04.05-20.41.04:412][140]LogBlueprintUserMessages: [Main_C_18] 15
+[2024.04.05-20.41.05:941][185]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil5
+[2024.04.05-20.41.05:941][185]LogBlueprintUserMessages: [Main_C_18] 14
+[2024.04.05-20.41.06:953][214]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil6
+[2024.04.05-20.41.06:953][214]LogBlueprintUserMessages: [Main_C_18] 13
+[2024.04.05-20.41.08:267][252]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil7
+[2024.04.05-20.41.08:267][252]LogBlueprintUserMessages: [Main_C_18] 12
+[2024.04.05-20.41.09:476][286]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil8
+[2024.04.05-20.41.09:476][286]LogBlueprintUserMessages: [Main_C_18] 11
+[2024.04.05-20.41.10:391][313]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil9
+[2024.04.05-20.41.10:391][313]LogBlueprintUserMessages: [Main_C_18] 10
+[2024.04.05-20.41.11:259][339]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil10
+[2024.04.05-20.41.11:259][339]LogBlueprintUserMessages: [Main_C_18] 9
+[2024.04.05-20.41.12:466][375]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil11
+[2024.04.05-20.41.12:466][375]LogBlueprintUserMessages: [Main_C_18] 8
+[2024.04.05-20.41.13:285][399]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil12
+[2024.04.05-20.41.13:285][399]LogBlueprintUserMessages: [Main_C_18] 7
+[2024.04.05-20.41.13:969][419]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil13
+[2024.04.05-20.41.13:969][419]LogBlueprintUserMessages: [Main_C_18] 6
+[2024.04.05-20.41.14:779][443]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil14
+[2024.04.05-20.41.14:779][443]LogBlueprintUserMessages: [Main_C_18] 5
+[2024.04.05-20.41.16:160][484]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil15
+[2024.04.05-20.41.16:160][484]LogBlueprintUserMessages: [Main_C_18] 4
+[2024.04.05-20.41.16:992][509]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil16
+[2024.04.05-20.41.16:992][509]LogBlueprintUserMessages: [Main_C_18] 3
+[2024.04.05-20.41.17:790][533]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil17
+[2024.04.05-20.41.17:790][533]LogBlueprintUserMessages: [Main_C_18] 2
+[2024.04.05-20.41.18:795][563]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil18
+[2024.04.05-20.41.18:795][563]LogBlueprintUserMessages: [Main_C_18] 1
+[2024.04.05-20.41.19:686][590]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil19
+[2024.04.05-20.41.19:686][590]LogBlueprintUserMessages: [Main_C_18] 0
+[2024.04.05-20.41.20:466][614]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.41.20:769][623]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.41.21:027][631]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.41.25:493][764]LogNet: Browse: /Game/Main
+[2024.04.05-20.41.25:493][764]LogLoad: LoadMap: /Game/Main
+[2024.04.05-20.41.25:493][764]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.41.25:493][764]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.41.25:493][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.41.25:511][764]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-20.41.25:525][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.04.05-20.41.25:552][764]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.41.25:563][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011353s)
+[2024.04.05-20.41.25:563][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.011409s)
+[2024.04.05-20.41.25:563][764]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main'.
+[2024.04.05-20.41.25:563][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.41.25:563][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.41.25:564][764]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.41.25:564][764]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2024.04.05-20.41.25:564][764]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.41.25:569][764]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.41.25
+[2024.04.05-20.41.25:569][764]LogWorld: Bringing up level for play took: 0.004383
+[2024.04.05-20.41.25:571][764]LogBlueprintUserMessages: [Main_C_18] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.41.25:571][764]LogBlueprintUserMessages: [Main_C_18] 20
+[2024.04.05-20.41.25:571][764]LogLoad: Took 0.082621 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2024.04.05-20.41.29:435][875]LogBlueprintUserMessages: [BP_Projétil_C_0] BP_Projétil0
+[2024.04.05-20.41.29:435][875]LogBlueprintUserMessages: [Main_C_18] 19
+[2024.04.05-20.41.30:756][913]LogBlueprintUserMessages: [BP_Projétil_C_1] BP_Projétil1
+[2024.04.05-20.41.30:756][913]LogBlueprintUserMessages: [Main_C_18] 18
+[2024.04.05-20.41.32:374][960]LogBlueprintUserMessages: [BP_Projétil_C_2] BP_Projétil2
+[2024.04.05-20.41.32:374][960]LogBlueprintUserMessages: [Main_C_18] 17
+[2024.04.05-20.41.33:299][987]LogBlueprintUserMessages: [BP_Projétil_C_3] BP_Projétil3
+[2024.04.05-20.41.33:299][987]LogBlueprintUserMessages: [Main_C_18] 16
+[2024.04.05-20.41.34:753][ 28]LogBlueprintUserMessages: [BP_Projétil_C_4] BP_Projétil4
+[2024.04.05-20.41.34:753][ 28]LogBlueprintUserMessages: [Main_C_18] 15
+[2024.04.05-20.41.35:711][ 56]LogBlueprintUserMessages: [BP_Projétil_C_5] BP_Projétil5
+[2024.04.05-20.41.35:712][ 56]LogBlueprintUserMessages: [Main_C_18] 14
+[2024.04.05-20.41.36:792][ 88]LogBlueprintUserMessages: [BP_Projétil_C_6] BP_Projétil6
+[2024.04.05-20.41.36:792][ 88]LogBlueprintUserMessages: [Main_C_18] 13
+[2024.04.05-20.41.38:537][140]LogBlueprintUserMessages: [BP_Projétil_C_7] BP_Projétil7
+[2024.04.05-20.41.38:537][140]LogBlueprintUserMessages: [Main_C_18] 12
+[2024.04.05-20.41.40:138][187]LogBlueprintUserMessages: [BP_Projétil_C_8] BP_Projétil8
+[2024.04.05-20.41.40:138][187]LogBlueprintUserMessages: [Main_C_18] 11
+[2024.04.05-20.41.41:631][231]LogBlueprintUserMessages: [BP_Projétil_C_9] BP_Projétil9
+[2024.04.05-20.41.41:631][231]LogBlueprintUserMessages: [Main_C_18] 10
+[2024.04.05-20.41.43:453][285]LogBlueprintUserMessages: [BP_Projétil_C_10] BP_Projétil10
+[2024.04.05-20.41.43:453][285]LogBlueprintUserMessages: [Main_C_18] 9
+[2024.04.05-20.41.44:369][312]LogBlueprintUserMessages: [BP_Projétil_C_11] BP_Projétil11
+[2024.04.05-20.41.44:369][312]LogBlueprintUserMessages: [Main_C_18] 8
+[2024.04.05-20.41.45:393][342]LogBlueprintUserMessages: [BP_Projétil_C_12] BP_Projétil12
+[2024.04.05-20.41.45:393][342]LogBlueprintUserMessages: [Main_C_18] 7
+[2024.04.05-20.41.46:439][373]LogBlueprintUserMessages: [BP_Projétil_C_13] BP_Projétil13
+[2024.04.05-20.41.46:439][373]LogBlueprintUserMessages: [Main_C_18] 6
+[2024.04.05-20.41.47:863][416]LogBlueprintUserMessages: [BP_Projétil_C_14] BP_Projétil14
+[2024.04.05-20.41.47:863][416]LogBlueprintUserMessages: [Main_C_18] 5
+[2024.04.05-20.41.51:627][532]LogBlueprintUserMessages: [BP_Projétil_C_15] BP_Projétil15
+[2024.04.05-20.41.51:627][532]LogBlueprintUserMessages: [Main_C_18] 4
+[2024.04.05-20.41.55:551][653]LogBlueprintUserMessages: [BP_Projétil_C_16] BP_Projétil16
+[2024.04.05-20.41.55:551][653]LogBlueprintUserMessages: [Main_C_18] 3
+[2024.04.05-20.41.56:926][696]LogBlueprintUserMessages: [BP_Projétil_C_17] BP_Projétil17
+[2024.04.05-20.41.56:926][696]LogBlueprintUserMessages: [Main_C_18] 2
+[2024.04.05-20.41.58:427][743]LogBlueprintUserMessages: [BP_Projétil_C_18] BP_Projétil18
+[2024.04.05-20.41.58:427][743]LogBlueprintUserMessages: [Main_C_18] 1
+[2024.04.05-20.42.00:177][797]LogBlueprintUserMessages: [BP_Projétil_C_19] BP_Projétil19
+[2024.04.05-20.42.00:177][797]LogBlueprintUserMessages: [Main_C_18] 0
+[2024.04.05-20.42.02:379][865]LogBlueprintUserMessages: [Main_C_18] Não há mais munição disponível. Reiniciando em 5 segundos.
+[2024.04.05-20.42.07:410][ 21]LogNet: Browse: /Game/Main
+[2024.04.05-20.42.07:410][ 21]LogLoad: LoadMap: /Game/Main
+[2024.04.05-20.42.07:410][ 21]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.42.07:410][ 21]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.42.07:410][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.42.07:425][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-20.42.07:441][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.05-20.42.07:461][ 21]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.04.05-20.42.07:472][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011589s)
+[2024.04.05-20.42.07:472][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.011674s)
+[2024.04.05-20.42.07:472][ 21]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main'.
+[2024.04.05-20.42.07:472][ 21]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-20.42.07:472][ 21]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-20.42.07:472][ 21]LogAIModule: Creating AISystem for world Main
+[2024.04.05-20.42.07:473][ 21]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2024.04.05-20.42.07:473][ 21]LogLoad: Game class is 'GameModeBase'
+[2024.04.05-20.42.07:478][ 21]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.05-17.42.07
+[2024.04.05-20.42.07:478][ 21]LogWorld: Bringing up level for play took: 0.004736
+[2024.04.05-20.42.07:480][ 21]LogBlueprintUserMessages: [Main_C_18] Olá, bem vindo ao projeto de jogo inicial.
+[2024.04.05-20.42.07:480][ 21]LogBlueprintUserMessages: [Main_C_18] 20
+[2024.04.05-20.42.07:480][ 21]LogLoad: Took 0.076025 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2024.04.05-20.42.11:127][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.42.11:127][127]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.04.05-20.42.11:127][127]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-20.42.11:129][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.42.11:165][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-20.42.11:170][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-20.42.11:190][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-20.42.11:190][127]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.05-20.42.11:190][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.05-20.42.11:192][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.05-20.42.11:202][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.04.05-20.42.11:320][128]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.04.05-20.42.13:609][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.05-20.42.13:729][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.05-20.42.13:777][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.05-20.42.13:819][164]LogSavePackage: Moving output files for package: /Game/Main
+[2024.04.05-20.42.13:819][164]LogSavePackage: Moving '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Saved/MainEA1047F0485A94DFA719698DAC1A5F85.tmp' to '../../../../Unreal Projetos/Unreal-Projetos-de-Estudo/WarehouseWreckage/Content/Main.umap'
+[2024.04.05-20.42.13:830][164]LogFileHelpers: Saving map 'Main' took 0.101
+[2024.04.05-20.42.13:839][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 231 ms (total: 3.16 sec)
+[2024.04.05-20.42.13:842][164]AssetCheck: New page: Asset Save: Main
+[2024.04.05-20.42.13:842][164]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
